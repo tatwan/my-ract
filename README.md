@@ -1,4 +1,4 @@
-**Used in my class Azure for Developers**
+**Used in teaching the class Azure for Developers**
 
 # React basic
 
